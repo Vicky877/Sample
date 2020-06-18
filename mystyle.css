@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: cadetblue;
+    position: sticky;
+    top: 0;
+    height: 80px;
+}
+
+main {
+    padding: 100px 16px 100px 50px;
+}
+
+aside {
+    height: 450px;
+    width: 20%;
+    background-color: chocolate;
+    display: inline-block;
+}
+
+section {
+    height: 450px;
+    width: 60%;
+    margin-left: 10px;
+    display: inline-block;
+    background-color: darkgoldenrod;
+}
+
+footer {
+    height: 80px;
+    background-color: darkgray;
+}
